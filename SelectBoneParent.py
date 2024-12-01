@@ -1,5 +1,5 @@
 import bpy
-
+#This simple code is mine, and it has already been pushed to github repo as my archive:https://github.com/Blackonlearn/Select-bone-parent
 
 C = bpy.context
 D = bpy.data
